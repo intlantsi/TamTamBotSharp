@@ -1,2 +1,7 @@
 # TamTamBotSharp
-Port of TamTam Bot API library to .NET5.0 
+
+## API
+Just straight port of [TamTam Bot API Java Client](https://github.com/tamtam-chat/tamtam-bot-api) library to .NET5.0 
+
+##SDK
+On the way...
