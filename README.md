@@ -5,3 +5,7 @@ Just straight port of [TamTam Bot API Java Client](https://github.com/tamtam-cha
 
 ## SDK
 On the way...
+
+## Requirements
++ VisualStudio 2019
++ .NET 5.0
